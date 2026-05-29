@@ -1,8 +1,4 @@
-My Personal SKSE plugin template that i created by cloning my original msco template and then deleting all the stuff i dont use
-# SKSE Plugin Template
-
-A minimal CMake + CommonLibVR-ng + SKSE template for Skyrim SE plugins.
-
+Attempt at porting [styxxus's static regen](https://codeberg.org/Styyx/static-regen) to 1.5.97. 
 ## Quick start
 
 ```bash
